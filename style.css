@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 30px;
+  color: #333333;
+}
+
+.hoja-vida {
+  max-width: 750px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 40px;
+  border: 1px solid #dddddd;
+}
+
+.header-cv {
+  border-bottom: 2px solid #0056b3;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+}
+
+.nombre {
+  color: #0056b3;
+  margin: 0 0 5px 0;
+}
+
+.profesion {
+  font-size: 18px;
+  color: #666666;
+  margin: 0 0 15px 0;
+}
+
+.contacto {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.seccion {
+  margin-bottom: 25px;
+}
+
+.titulo-seccion {
+  color: #0056b3;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.bloque-info {
+  margin-bottom: 15px;
+}
+
+.subtitulo-bloque {
+  margin: 0 0 5px 0;
+}
+
+.institucion {
+  margin: 0;
+  color: #555555;
+  font-style: italic;
+}
+
+.lista-habilidades {
+  padding-left: 20px;
+  line-height: 1.8;
+}
